@@ -1,0 +1,19 @@
+.title-style{
+
+    font-weight: 900;
+    font-size: 18px;
+    background-color: royalblue;
+   
+
+}
+
+
+.img-style{
+   width: 250px;
+}
+
+
+#container{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
